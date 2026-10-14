@@ -8,12 +8,12 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Systems%20Engineering%20Student;Always%20learning%20new%20things;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Systems%20Engineer%20;Always%20learning%20new%20things;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 ---
 
-- 👨‍💻 Systems Engineering Student  constantly exploring new programming languages, tools, and IDEs.
+- 👨‍💻 Systems Engineer constantly exploring new programming languages, tools, and IDEs.
 - 🚀 Passionate about learning how software works under the hood and building modern, efficient solutions.
 - 🎧 Driven by code and high-BPM Techno  — always up for coding sessions or hanging out with friends!
 
